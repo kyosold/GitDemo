@@ -11,3 +11,6 @@ def m4():
 
 def m5():
     pass
+
+def m6():
+    pass
