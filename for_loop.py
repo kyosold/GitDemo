@@ -9,3 +9,5 @@
 def m4():
     pass
 
+def m5():
+    pass
